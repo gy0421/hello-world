@@ -4,3 +4,5 @@ Hello, World exercise (nothing to see here, move along)
 ### This is a *local* change
 #### This is updated at pm4:15
 ##### This is updated at pm4:20
+ocs@ubuntu:~$ which git
+/usr/bin/git
